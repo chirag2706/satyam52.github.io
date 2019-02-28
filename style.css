@@ -1,3 +1,7 @@
+body{
+	background: linear-gradient(to right, rgb(223, 194, 159), rgb(207, 175, 205));
+}
+
 header{
 		box-shadow: 10px 10px 50px gray;
 		border: 5px solid violet;
@@ -7,6 +11,15 @@ header{
 	font-size: 40px;
 	display: flex;
 	justify-content: center;
+	background: linear-gradient(to right, #92fe9d 0%, #00c9ff 100%);
+ 
+ 
+ 
+}
+#sp1{
+		background:linear-gradient(to right, #92fe9d 0%, #00c9ff 100%);
+ 
+
 }
 .navbar-light .navbar-brand:hover{
 		color:red;
