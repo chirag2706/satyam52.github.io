@@ -154,3 +154,6 @@ img{
 	font-size: 30px;
 	color:red;
 }
+html,body{
+	margin:0;
+}
